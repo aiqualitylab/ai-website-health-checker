@@ -1,0 +1,4 @@
+requests
+markdown
+python-dotenv
+openai
